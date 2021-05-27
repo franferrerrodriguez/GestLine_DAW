@@ -1,4 +1,8 @@
-Enlace al sitio web: http://81.22.232.116
 Repositorio GitHub: https://github.com/franferrerrodriguez/GestLine_DAW
 Memoria de proyecto: https://github.com/franferrerrodriguez/GestLine_DAW/blob/master/Memoria%20y%20presentaci%C3%B3n/Memoria.pdf
 Vídeo presentación: https://www.youtube.com/watch?v=v5ZG-cbajeI
+Enlace al sitio web: http://81.22.232.116
+
+ACCESO:
+Usuario: 48640904K
+Contraseña: 1234
