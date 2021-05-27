@@ -1,0 +1,46 @@
+<div *ngIf="invoiceResumeData">
+    <div class="header-component" data-toggle="collapse" href="#collapseResumeInvoice" aria-expanded="true" aria-controls="collapseExample">
+        {{ title }} - {{ month | uppercase }} ({{ chartSelected.invoiceDate }})
+        <i class="fas fa-angle-down rotate-icon"></i>
+    </div>
+    <div class="collapse show" id="collapseResumeInvoice">
+        <div *ngIf="chartSelected">
+            <div class="card">
+                <ul class="list-group list-group-flush">
+                    <li *ngFor="let invoice of chartSelected.invoices;" class="list-group-item">
+                        <span style="float:left;">
+                            <h3>{{ invoice.phone }}</h3>
+                            <span>
+                                <b>Base Imponible: </b>{{ invoice.amount.toFixed(2) }} € 
+                            </span>
+                            <br>
+                            <span>
+                                <b>I.V.A.: </b>{{ invoice.tax.toFixed(2) }} % 
+                                ({{ invoice.taxAmount.toFixed(2) }} €) 
+                            </span>
+                        </span>
+                        <span style="float:right;margin-top:30px;">
+                            <h4>Total: {{ invoice.totalAmount.toFixed(2) }} € </h4>
+                        </span>
+                    </li>
+                    <li class="list-group-item">
+                        <span style="float:right;">
+                            <h3>Total factura: {{ getTotalAmount().toFixed(2) }} € </h3>
+                        </span>
+                    </li>
+                </ul>
+                <div class="card-body">
+                    <a href="{{ url }}" (click)="downloadInvoice()" class="card-link">Descargar factura</a>
+                    <a href="{{ url }}" (click)="showInvoice()" target="_blank" class="card-link">Ver factura</a>
+                </div>
+            </div>
+        </div>
+        <div *ngIf="!chartSelected">
+            <div class="alert alert-danger" role="alert">
+                No existen facturas.
+            </div>
+        </div>
+    </div>
+</div>
+
+<app-notification [notification]="notification"></app-notification>

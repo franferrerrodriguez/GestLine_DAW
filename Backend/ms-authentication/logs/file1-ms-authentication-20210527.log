@@ -1,0 +1,12 @@
+2021-05-27 18:22:36 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:22:49 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 18.371 seconds (JVM running for 19.208)
+2021-05-27 18:27:02 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:27:15 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 18.398 seconds (JVM running for 19.434)
+2021-05-27 18:36:31 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:36:40 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 14.514 seconds (JVM running for 15.394)
+2021-05-27 18:54:45 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:54:49 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 8.742 seconds (JVM running for 1105.126)
+2021-05-27 18:57:58 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:58:06 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 13.428 seconds (JVM running for 14.283)
+2021-05-27 19:20:17 [main] INFO  m.a.MsAuthenticationApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 19:20:35 [main] INFO  m.a.MsAuthenticationApplicationTests - Started MsAuthenticationApplicationTests in 23.625 seconds (JVM running for 24.426)

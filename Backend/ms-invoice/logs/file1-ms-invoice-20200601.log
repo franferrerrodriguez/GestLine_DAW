@@ -1,0 +1,2 @@
+2020-06-01 11:17:19 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-06-01 11:17:27 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 14.138 seconds (JVM running for 14.892)

@@ -1,0 +1,20 @@
+# Config
+server:
+     port: 8761
+
+spring:
+     # Spring Application Config
+     application:
+          name: eureka-server
+          
+     # Spring Cloud Config
+     cloud:
+          config:
+               uri: http://localhost:8888
+               
+eureka:
+     client:
+          fetchRegistry: true
+          registerWithEureka: true
+initialMemoryMin: -Xms512m
+initialMemoryMax: -Xmx512m

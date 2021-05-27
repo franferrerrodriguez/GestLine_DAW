@@ -1,0 +1,38 @@
+2020-04-12 14:18:28 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-04-12 14:18:36 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 14.95 seconds (JVM running for 15.706)
+2020-04-12 19:08:05 [hystrix-Controller-1] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 19:14:47 [hystrix-Controller-2] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:01:32 [hystrix-Controller-3] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:02:14 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-04-12 20:02:17 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 8.215 seconds (JVM running for 20637.252)
+2020-04-12 20:02:30 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-04-12 20:02:34 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 7.918 seconds (JVM running for 20653.622)
+2020-04-12 20:03:27 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-04-12 20:03:33 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-04-12 20:03:40 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 11.761 seconds (JVM running for 12.454)
+2020-04-12 20:04:37 [hystrix-Controller-1] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:04:39 [hystrix-Controller-2] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:05:17 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-04-12 20:05:25 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 12.464 seconds (JVM running for 13.315)
+2020-04-12 20:05:42 [hystrix-Controller-1] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:05:56 [hystrix-Controller-2] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:07:46 [hystrix-Controller-3] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:08:54 [hystrix-Controller-4] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:08:58 [hystrix-Controller-5] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:09:29 [hystrix-Controller-6] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:24:30 [hystrix-Controller-7] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:24:35 [hystrix-Controller-8] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:24:41 [hystrix-Controller-9] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:24:46 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:25:12 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:25:44 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:26:17 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:26:29 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:27:11 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-04-12 20:27:17 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 11.414 seconds (JVM running for 12.102)
+2020-04-12 20:28:07 [hystrix-Controller-1] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:28:14 [hystrix-Controller-2] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:28:17 [hystrix-Controller-3] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:28:31 [hystrix-Controller-4] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 20:28:39 [hystrix-Controller-5] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-04-12 21:33:22 [hystrix-Controller-6] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'

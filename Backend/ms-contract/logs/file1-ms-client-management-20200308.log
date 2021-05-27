@@ -1,0 +1,78 @@
+2020-03-08 12:41:56 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:42:01 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 7.134 seconds (JVM running for 7.753)
+2020-03-08 12:48:51 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:48:55 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 7.162 seconds (JVM running for 7.783)
+2020-03-08 12:50:04 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:50:08 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 7.087 seconds (JVM running for 7.703)
+2020-03-08 12:50:35 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:50:36 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.977 seconds (JVM running for 35.595)
+2020-03-08 12:50:56 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:50:58 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.867 seconds (JVM running for 56.968)
+2020-03-08 12:51:36 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:51:40 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 6.104 seconds (JVM running for 6.719)
+2020-03-08 12:53:00 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:53:04 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 6.136 seconds (JVM running for 6.756)
+2020-03-08 12:54:40 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:54:41 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.668 seconds (JVM running for 103.739)
+2020-03-08 12:55:15 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:55:19 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 6.033 seconds (JVM running for 6.642)
+2020-03-08 12:55:56 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:56:01 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 5.845 seconds (JVM running for 6.456)
+2020-03-08 12:56:53 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:56:54 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.642 seconds (JVM running for 60.116)
+2020-03-08 12:57:42 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:57:44 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.693 seconds (JVM running for 109.523)
+2020-03-08 12:57:55 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:57:57 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.46 seconds (JVM running for 122.427)
+2020-03-08 12:58:19 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 12:58:24 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 7.389 seconds (JVM running for 7.995)
+2020-03-08 13:01:27 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:01:29 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.916 seconds (JVM running for 192.719)
+2020-03-08 13:02:59 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:03:01 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.903 seconds (JVM running for 284.706)
+2020-03-08 13:03:23 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:03:24 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.776 seconds (JVM running for 307.982)
+2020-03-08 13:05:00 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:05:02 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.849 seconds (JVM running for 405.789)
+2020-03-08 13:05:20 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:05:21 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.855 seconds (JVM running for 425.121)
+2020-03-08 13:06:06 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:06:07 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.808 seconds (JVM running for 471.586)
+2020-03-08 13:07:08 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:07:09 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.843 seconds (JVM running for 533.173)
+2020-03-08 13:07:21 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:07:22 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.839 seconds (JVM running for 546.582)
+2020-03-08 13:07:54 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:07:55 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.866 seconds (JVM running for 579.041)
+2020-03-08 13:08:33 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:08:34 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.827 seconds (JVM running for 618.487)
+2020-03-08 13:08:58 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:09:02 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 5.985 seconds (JVM running for 6.602)
+2020-03-08 13:09:42 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:09:44 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.683 seconds (JVM running for 48.285)
+2020-03-08 13:11:45 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:11:49 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 6.161 seconds (JVM running for 6.777)
+2020-03-08 13:13:50 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:13:54 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 6.201 seconds (JVM running for 6.83)
+2020-03-08 13:16:08 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:16:12 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 5.993 seconds (JVM running for 6.619)
+2020-03-08 13:17:20 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:17:24 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 5.851 seconds (JVM running for 6.46)
+2020-03-08 13:19:09 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:19:13 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 5.966 seconds (JVM running for 6.581)
+2020-03-08 13:19:55 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:19:56 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.297 seconds (JVM running for 49.872)
+2020-03-08 13:20:51 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:20:52 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.11 seconds (JVM running for 105.73)
+2020-03-08 13:21:10 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:21:11 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.529 seconds (JVM running for 124.747)
+2020-03-08 13:24:59 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:25:01 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.636 seconds (JVM running for 354.24)
+2020-03-08 13:25:34 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:25:39 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 6.576 seconds (JVM running for 7.191)
+2020-03-08 13:26:05 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:26:09 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 6.095 seconds (JVM running for 6.705)
+2020-03-08 13:27:21 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:27:22 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 3.255 seconds (JVM running for 80.138)
+2020-03-08 13:27:39 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-03-08 13:27:41 [restartedMain] INFO  c.s.m.m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 2.575 seconds (JVM running for 98.215)

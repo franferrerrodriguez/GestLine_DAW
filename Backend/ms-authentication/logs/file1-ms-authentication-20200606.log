@@ -1,0 +1,10 @@
+2020-06-06 18:38:13 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-06-06 18:38:20 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 12.438 seconds (JVM running for 13.196)
+2020-06-06 18:38:51 [hystrix-Controller-1] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-06-06 18:38:51 [hystrix-Controller-2] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-06-06 18:38:51 [hystrix-Controller-3] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-06-06 18:38:51 [hystrix-Controller-4] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-06-06 18:38:59 [hystrix-Controller-5] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-06-06 18:38:59 [hystrix-Controller-6] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-06-06 18:38:59 [hystrix-Controller-7] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-06-06 18:39:00 [hystrix-Controller-8] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'

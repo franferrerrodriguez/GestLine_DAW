@@ -1,0 +1,4 @@
+2021-05-26 02:39:34 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-26 02:39:57 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 31.312 seconds (JVM running for 32.75)
+2021-05-26 11:22:11 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-26 11:22:25 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 21.281 seconds (JVM running for 22.043)

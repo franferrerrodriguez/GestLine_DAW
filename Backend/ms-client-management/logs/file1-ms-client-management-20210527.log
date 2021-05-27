@@ -1,0 +1,87 @@
+2021-05-27 18:22:33 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:22:46 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 18.309 seconds (JVM running for 19.171)
+2021-05-27 18:27:05 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:27:17 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 18.051 seconds (JVM running for 18.9)
+2021-05-27 18:36:33 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:36:42 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 14.48 seconds (JVM running for 15.36)
+2021-05-27 18:37:27 [hystrix-Controller-1] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 18:39:17 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 18:39:25 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 12.928 seconds (JVM running for 13.687)
+2021-05-27 18:49:16 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 18:49:24 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 12.925 seconds (JVM running for 13.645)
+2021-05-27 18:49:30 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 18:49:38 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 12.899 seconds (JVM running for 13.658)
+2021-05-27 18:50:09 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 18:50:17 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 13.003 seconds (JVM running for 13.713)
+2021-05-27 18:52:33 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 18:52:41 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 12.851 seconds (JVM running for 13.56)
+2021-05-27 18:58:16 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 18:58:24 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 13.073 seconds (JVM running for 13.89)
+2021-05-27 19:02:02 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 19:02:09 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 12.964 seconds (JVM running for 13.657)
+2021-05-27 19:03:36 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 19:03:44 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 12.956 seconds (JVM running for 13.646)
+2021-05-27 19:04:08 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 19:04:15 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 12.954 seconds (JVM running for 13.651)
+2021-05-27 19:06:25 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2021-05-27 19:06:33 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 13.457 seconds (JVM running for 13.983)
+2021-05-27 19:06:41 [hystrix-Controller-1] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:43 [hystrix-Controller-2] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:44 [hystrix-Controller-3] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:44 [hystrix-Controller-4] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:45 [hystrix-Controller-5] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:45 [hystrix-Controller-6] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:46 [hystrix-Controller-7] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:46 [hystrix-Controller-8] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:47 [hystrix-Controller-9] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:47 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:48 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:48 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:49 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:06:49 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:07:25 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2021-05-27 19:07:27 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2021-05-27 19:07:31 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 9.147 seconds (JVM running for 71.836)
+2021-05-27 19:07:31 [hystrix-Controller-1] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:07:33 [hystrix-Controller-2] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:07:34 [hystrix-Controller-3] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:07:49 [hystrix-Controller-4] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:07:50 [hystrix-Controller-5] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:07:50 [hystrix-Controller-6] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:43 [hystrix-Controller-7] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:44 [hystrix-Controller-8] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:45 [hystrix-Controller-9] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:45 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:45 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:46 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:46 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:47 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:47 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:48 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:48 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:48 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:49 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:49 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:50 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:50 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:50 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:51 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:51 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:58 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:59 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:09:59 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:00 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:00 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:01 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:01 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:02 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:03 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:03 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:04 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:05 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:05 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:05 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:06 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:10:06 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2021-05-27 19:20:21 [main] INFO  m.c.m.MsClientManagementApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 19:20:38 [main] INFO  m.c.m.MsClientManagementApplicationTests - Started MsClientManagementApplicationTests in 23.848 seconds (JVM running for 24.6)

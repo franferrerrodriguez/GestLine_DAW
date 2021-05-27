@@ -1,0 +1,104 @@
+2020-04-06 16:50:35 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:50:42 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.659 seconds (JVM running for 12.363)
+2020-04-06 17:22:36 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:25:19 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:25:35 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:30:39 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:30:45 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.402 seconds (JVM running for 12.086)
+2020-04-06 17:31:25 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:31:42 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:32:05 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:32:09 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 7.931 seconds (JVM running for 95.347)
+2020-04-06 17:33:47 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:33:54 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.362 seconds (JVM running for 12.038)
+2020-04-06 17:34:06 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 17:35:46 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:36:29 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:36:33 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.003 seconds (JVM running for 171.106)
+2020-04-06 17:36:59 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:37:02 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 7.887 seconds (JVM running for 200.475)
+2020-04-06 17:37:59 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:38:07 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.301 seconds (JVM running for 13.322)
+2020-04-06 17:38:48 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:38:52 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.258 seconds (JVM running for 58.234)
+2020-04-06 17:39:26 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:39:30 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.308 seconds (JVM running for 96.055)
+2020-04-06 17:39:39 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:39:43 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.176 seconds (JVM running for 109.599)
+2020-04-06 17:40:29 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:40:36 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.353 seconds (JVM running for 13.188)
+2020-04-06 17:42:12 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:42:19 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.264 seconds (JVM running for 13.093)
+2020-04-06 17:43:48 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:43:52 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.328 seconds (JVM running for 105.26)
+2020-04-06 17:50:46 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:50:54 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.365 seconds (JVM running for 13.19)
+2020-04-06 17:54:48 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:54:54 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.453 seconds (JVM running for 12.152)
+2020-04-06 17:55:14 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:55:21 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.463 seconds (JVM running for 13.29)
+2020-04-06 17:56:12 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:56:16 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.368 seconds (JVM running for 68.365)
+2020-04-06 17:57:39 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:57:43 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.599 seconds (JVM running for 155.623)
+2020-04-06 17:57:53 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:58:00 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.389 seconds (JVM running for 13.237)
+2020-04-06 17:58:28 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:58:32 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.285 seconds (JVM running for 45.136)
+2020-04-06 17:58:54 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 17:58:55 [hystrix-Controller-2] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 17:58:57 [hystrix-Controller-3] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 17:58:57 [hystrix-Controller-4] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 17:58:59 [hystrix-Controller-5] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 17:58:59 [hystrix-Controller-6] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 17:59:24 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:59:28 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.237 seconds (JVM running for 100.923)
+2020-04-06 18:00:08 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 18:00:16 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.343 seconds (JVM running for 13.172)
+2020-04-06 18:17:55 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 18:18:02 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.407 seconds (JVM running for 13.265)
+2020-04-06 20:37:32 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 20:37:39 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.32 seconds (JVM running for 13.26)
+2020-04-06 21:25:08 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:25:15 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 12.443 seconds (JVM running for 13.289)
+2020-04-06 21:43:45 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:46:03 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:49:01 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:52:26 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:52:43 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:53:46 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:54:49 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:54:56 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.562 seconds (JVM running for 12.234)
+2020-04-06 21:54:58 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 21:56:26 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:56:30 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.035 seconds (JVM running for 106.273)
+2020-04-06 21:56:37 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:56:43 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.374 seconds (JVM running for 12.067)
+2020-04-06 21:56:51 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 21:59:16 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 21:59:22 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:02:39 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:03:03 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:03:30 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:03:37 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.367 seconds (JVM running for 12.034)
+2020-04-06 22:03:58 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:05:39 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:07:14 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:07:53 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:08:25 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:08:32 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.426 seconds (JVM running for 12.094)
+2020-04-06 22:08:35 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:08:53 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:08:57 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 7.976 seconds (JVM running for 36.767)
+2020-04-06 22:08:59 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:09:00 [hystrix-Controller-2] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:09:27 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:09:34 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 11.475 seconds (JVM running for 12.157)
+2020-04-06 22:09:34 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:09:45 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - No active profile set, falling back to default profiles: default
+2020-04-06 22:09:48 [restartedMain] INFO  ms.invoice.MsInvoiceApplication - Started MsInvoiceApplication in 8.14 seconds (JVM running for 26.963)
+2020-04-06 22:09:52 [hystrix-Controller-1] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:10:13 [hystrix-Controller-2] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:10:13 [hystrix-Controller-3] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:10:14 [hystrix-Controller-4] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'
+2020-04-06 22:10:14 [hystrix-Controller-5] INFO  ms.invoice.controller.Controller - Called endpoint: 'invoiceAll' | Port: '8003'

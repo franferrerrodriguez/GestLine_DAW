@@ -1,0 +1,87 @@
+<table class="table table-sm">
+    <thead class="table-primary">
+        <tr>
+            <th colspan="2">FRONTEND</th>
+        </tr>
+    </thead>
+    <thead class="table-secondary">
+        <tr>
+            <th colspan="2">APP</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nombre</td>
+            <td>{{ name }}</td>
+        </tr>
+        <tr>
+            <td>Versión</td>
+            <td>{{ version }}</td>
+        </tr>
+    </tbody>
+    <thead class="table-secondary">
+        <tr>
+            <th colspan="2">COMANDOS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let script of scripts">
+            <td>{{ script.name }}</td>
+            <td>{{ script.value }}</td>
+        </tr>
+    </tbody>
+    <thead class="table-secondary">
+        <tr>
+            <th colspan="2">DEPENDENCIAS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dependency of dependencies">
+            <td>{{ dependency.name }}</td>
+            <td>{{ dependency.value }}</td>
+        </tr>
+    </tbody>
+    <thead class="table-secondary">
+        <tr>
+            <th colspan="2">DEV DEPENDENCIAS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let devDependency of devDependencies">
+            <td>{{ devDependency.name }}</td>
+            <td>{{ devDependency.value }}</td>
+        </tr>
+    </tbody>
+</table>
+
+<table class="table table-sm">
+    <thead class="table-primary">
+        <tr>
+            <th colspan="3">BACKEND</th>
+        </tr>
+    </thead>
+    <thead class="table-secondary">
+        <tr>
+            <th>ENTORNO</th>
+            <th>ENDPOINT</th>
+            <th>ACTUATOR</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let microservice of microservices">
+            <td>
+                {{ microservice.name }}
+            </td>
+            <td>
+                <a href="{{ microservice.endpoint }}" target="_blank">
+                    {{ microservice.endpoint }}
+                </a>
+            </td>
+            <td>
+                <a href="{{ microservice.actuator }}" target="_blank">
+                    {{ microservice.actuator }}
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>

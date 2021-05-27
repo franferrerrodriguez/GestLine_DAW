@@ -1,0 +1,21 @@
+<div *ngIf="invoiceChartData">
+    <div class="header-component" data-toggle="collapse" href="#collapseChartInvoice" aria-expanded="true" aria-controls="collapseExample">
+        {{ title }}
+        <i class="fas fa-angle-down rotate-icon"></i>
+    </div>
+    <div class="collapse show" id="collapseChartInvoice">
+        <div style="display: block;">
+            <canvas mdbChart
+                [chartType]="chartType"
+                [datasets]="chartDatasets"
+                [labels]="monthLabel"
+                [colors]="chartColors"
+                [options]="chartOptions"
+                [legend]="false"
+                (chartClick)="chartClicked($event)">
+            </canvas>
+        </div>
+    </div>
+</div>
+
+<app-notification [notification]="notification"></app-notification>

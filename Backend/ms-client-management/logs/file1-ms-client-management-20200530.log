@@ -1,0 +1,28 @@
+2020-05-30 18:08:37 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:08:48 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 16.613 seconds (JVM running for 18.051)
+2020-05-30 18:17:51 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:17:59 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 16.117 seconds (JVM running for 17.106)
+2020-05-30 18:19:43 [hystrix-Controller-1] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:19:43 [hystrix-Controller-2] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:20:01 [hystrix-Controller-3] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:20:01 [hystrix-Controller-4] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:21:47 [hystrix-Controller-5] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:24:51 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:24:55 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 8.304 seconds (JVM running for 433.825)
+2020-05-30 18:26:17 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:26:21 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 8.759 seconds (JVM running for 519.689)
+2020-05-30 18:27:50 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:27:53 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 9.317 seconds (JVM running for 611.947)
+2020-05-30 18:31:11 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:31:15 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 8.351 seconds (JVM running for 813.102)
+2020-05-30 18:34:29 [hystrix-Controller-1] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:34:58 [hystrix-Controller-2] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:36:51 [hystrix-Controller-3] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:38:31 [hystrix-Controller-4] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:38:43 [hystrix-Controller-5] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:38:46 [hystrix-Controller-6] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:39:20 [hystrix-Controller-7] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 18:51:25 [hystrix-Controller-8] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 19:11:54 [hystrix-Controller-9] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 19:21:29 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'
+2020-05-30 19:21:38 [hystrix-Controller-10] INFO  m.c.management.controller.Controller - Called endpoint: 'clientByDocument' | Port: '8001'

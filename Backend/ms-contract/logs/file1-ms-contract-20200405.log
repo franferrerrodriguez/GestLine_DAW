@@ -1,0 +1,4 @@
+2020-04-06 00:08:05 [hystrix-Controller-10] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 00:09:52 [hystrix-Controller-10] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 00:10:09 [hystrix-Controller-10] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 00:10:17 [hystrix-Controller-10] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'

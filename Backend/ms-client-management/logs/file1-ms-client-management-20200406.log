@@ -1,0 +1,5 @@
+2020-04-06 16:50:28 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:50:34 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 12.375 seconds (JVM running for 13.078)
+2020-04-06 16:51:05 [hystrix-Controller-1] INFO  m.c.management.controller.Controller - Called endpoint: 'clientById' | Port: '8001'
+2020-04-06 17:21:33 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:21:37 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 8.034 seconds (JVM running for 1875.44)

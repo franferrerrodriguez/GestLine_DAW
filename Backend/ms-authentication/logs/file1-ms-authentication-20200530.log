@@ -1,0 +1,40 @@
+2020-05-30 18:17:45 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:17:53 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 12.782 seconds (JVM running for 13.569)
+2020-05-30 18:19:42 [hystrix-Controller-1] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 18:19:43 [hystrix-Controller-2] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 18:19:43 [hystrix-Controller-3] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 18:20:01 [hystrix-Controller-4] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 18:20:01 [hystrix-Controller-5] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 18:20:01 [hystrix-Controller-6] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 18:21:47 [hystrix-Controller-7] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 18:26:09 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:27:48 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:28:34 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:29:58 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:31:40 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-05-30 18:31:47 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 11.814 seconds (JVM running for 12.53)
+2020-05-30 18:34:29 [hystrix-Controller-1] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 18:34:29 [hystrix-Controller-2] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 18:34:29 [hystrix-Controller-3] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-05-30 18:34:29 [hystrix-Controller-4] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 18:34:58 [hystrix-Controller-5] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 18:34:58 [hystrix-Controller-6] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 18:34:58 [hystrix-Controller-7] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-05-30 18:34:58 [hystrix-Controller-8] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 18:36:50 [hystrix-Controller-9] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 18:36:50 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 18:36:50 [hystrix-Controller-9] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-05-30 18:36:51 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 18:39:20 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 18:51:25 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 18:51:25 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 18:51:25 [hystrix-Controller-9] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-05-30 18:51:25 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 19:11:53 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 19:11:53 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 19:11:53 [hystrix-Controller-9] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-05-30 19:11:54 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'
+2020-05-30 19:21:28 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'checkLogin' | Port: '8000'
+2020-05-30 19:21:28 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getBlackList' | Port: '8000'
+2020-05-30 19:21:28 [hystrix-Controller-9] INFO  m.a.controller.Controller - Called endpoint: 'userByDocument' | Port: '8000'
+2020-05-30 19:21:29 [hystrix-Controller-10] INFO  m.a.controller.Controller - Called endpoint: 'getToken' | Port: '8000'

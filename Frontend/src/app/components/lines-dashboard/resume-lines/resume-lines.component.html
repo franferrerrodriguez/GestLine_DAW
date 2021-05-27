@@ -1,0 +1,38 @@
+<div *ngIf="contractData">
+    <div class="header-component" data-toggle="collapse" href="#collapseLines" aria-expanded="true" aria-controls="collapseExample">
+        {{ title }}
+        <i class="fas fa-angle-down rotate-icon"></i>
+    </div>
+    <div class="collapse show" id="collapseLines">
+        <div class="card">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item cursor-hand" 
+                    *ngFor="let contract of contractData.contractLines;" 
+                    [routerLink]="['/consumption', contract.phone]"
+                    style="height: 95px;">
+                    <span class="font-weight-bold">
+                        {{ contract.phone }} ({{ contract.contractType | contractType }})
+                    </span>
+                    <br>
+                    <span *ngIf="contract.rate">
+                        {{ contract.rate }}
+                    </span>
+                    <span *ngIf="contract.tecnology">
+                        ({{ contract.tecnology }})
+                    </span>
+                    <br>
+                    <span *ngIf="contract.dataConsumption">
+                        {{ utils.byteToGb(contract.dataConsumption.usageBytes) }} GB / 
+                        {{ utils.byteToGb(contract.dataConsumption.totalBytes) }} GB
+                    </span>
+                    <span>
+                        <button type="button" class="btn btn-secondary btnShowServices" 
+                            [routerLink]="['/lineservices', contract.phone]">VER SERVICIOS</button>
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<app-notification [notification]="notification"></app-notification>

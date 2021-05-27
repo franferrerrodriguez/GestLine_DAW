@@ -1,0 +1,48 @@
+<nav class="mb-1 navbar navbar-expand-lg navbar-dark primary-color fixed-top">
+    <a class="navbar-brand" href="/">{{ titleApp }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+      aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="basicExampleNav">
+      <ul class="navbar-nav mr-auto" *ngIf="authService.getCurrentUser()">
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" [routerLink]="['lines-dashboard']">Mis líneas</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" [routerLink]="['consumption']">Consumos</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" [routerLink]="['lineservices']">Servicios</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" [routerLink]="['invoices']">Facturas</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" [routerLink]="['settings']">Ajustes</a>
+        </li>
+      </ul>
+      <ul class="navbar-nav ml-auto nav-flex-icons" *ngIf="authService.getCurrentUser()">
+        <form class="form-inline" (keydown.enter)="$event.preventDefault()">
+            <div class="md-form my-0">
+              <input class="form-control mr-sm-2" type="number" placeholder="Buscar líneas" aria-label="Search" (keyup)="searchLine(search.value)" #search>
+            </div>
+        </form>
+        <li class="nav-item" routerLinkActive="active">
+          <a class="nav-link" [routerLink]="['documentation']">
+            <i class="fas fa-book-open" style="color: #fff"></i>
+          </a>
+        </li>
+        <li class="nav-item dropdown" title="Opciones de usuario">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            <i class="fas fa-user" style="color: #fff"></i>
+          </a>
+          <div class="dropdown-menu dropdown-menu-right dropdown-default">
+            <a class="dropdown-item" [routerLink]="['settings']">Ajustes</a>
+            <a class="dropdown-item" (click)="onLogout()">Cerrar sesión</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+</nav>

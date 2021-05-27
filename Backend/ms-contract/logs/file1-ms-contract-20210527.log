@@ -1,0 +1,12 @@
+2021-05-27 18:22:39 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:22:52 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 18.992 seconds (JVM running for 19.962)
+2021-05-27 18:27:08 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:27:20 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 17.822 seconds (JVM running for 18.649)
+2021-05-27 18:36:36 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:36:45 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 14.345 seconds (JVM running for 15.17)
+2021-05-27 18:54:46 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:54:50 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 8.737 seconds (JVM running for 1100.934)
+2021-05-27 18:58:04 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2021-05-27 18:58:13 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 13.853 seconds (JVM running for 14.685)
+2021-05-27 19:20:33 [main] INFO  m.c.MsContractApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-27 19:20:46 [main] INFO  m.c.MsContractApplicationTests - Started MsContractApplicationTests in 23.757 seconds (JVM running for 25.069)

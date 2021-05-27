@@ -1,0 +1,2 @@
+2020-06-01 11:17:22 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-06-01 11:17:29 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 13.512 seconds (JVM running for 14.274)

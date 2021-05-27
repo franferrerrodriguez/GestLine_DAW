@@ -1,0 +1,78 @@
+2020-04-06 16:50:32 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:51:56 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:52:03 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 11.469 seconds (JVM running for 12.145)
+2020-04-06 16:52:05 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:17 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:28 [hystrix-Controller-3] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:29 [hystrix-Controller-4] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:30 [hystrix-Controller-5] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:30 [hystrix-Controller-6] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:46 [hystrix-Controller-7] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:47 [hystrix-Controller-8] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:47 [hystrix-Controller-9] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:47 [hystrix-Controller-10] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:52:47 [hystrix-Controller-10] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:53:07 [hystrix-Controller-10] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:53:47 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:53:50 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 8.039 seconds (JVM running for 119.471)
+2020-04-06 16:54:12 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:54:13 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:54:13 [hystrix-Controller-3] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:54:13 [hystrix-Controller-4] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:54:35 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:54:57 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:55:01 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 7.913 seconds (JVM running for 189.91)
+2020-04-06 16:55:21 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:55:24 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 8.008 seconds (JVM running for 213.418)
+2020-04-06 16:55:27 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:55:31 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:55:31 [hystrix-Controller-3] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:55:32 [hystrix-Controller-4] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:55:32 [hystrix-Controller-5] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:55:33 [hystrix-Controller-6] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:56:11 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:56:15 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 7.926 seconds (JVM running for 263.961)
+2020-04-06 16:56:40 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:56:43 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 7.877 seconds (JVM running for 292.37)
+2020-04-06 16:56:58 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:56:59 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:57:52 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:58:17 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:58:21 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 7.956 seconds (JVM running for 389.989)
+2020-04-06 16:58:32 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 16:58:39 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 11.422 seconds (JVM running for 12.09)
+2020-04-06 16:58:40 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:58:40 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:58:41 [hystrix-Controller-3] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:58:42 [hystrix-Controller-4] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:58:42 [hystrix-Controller-5] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:58:42 [hystrix-Controller-6] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 16:59:31 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:00:03 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:00:07 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 7.992 seconds (JVM running for 100.03)
+2020-04-06 17:00:27 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 17:01:03 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:01:07 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 7.97 seconds (JVM running for 159.688)
+2020-04-06 17:01:35 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:01:38 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 8.124 seconds (JVM running for 191.442)
+2020-04-06 17:01:51 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:01:58 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 11.468 seconds (JVM running for 12.138)
+2020-04-06 17:01:59 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 17:02:01 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 17:02:01 [hystrix-Controller-3] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 17:09:26 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:09:30 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 8.057 seconds (JVM running for 464.437)
+2020-04-06 17:09:38 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:09:44 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 11.42 seconds (JVM running for 12.092)
+2020-04-06 17:09:58 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 17:10:20 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractByDocument' | Port: '8002'
+2020-04-06 17:11:21 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:11:25 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 8.01 seconds (JVM running for 112.192)
+2020-04-06 17:12:21 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:12:24 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 7.976 seconds (JVM running for 171.833)
+2020-04-06 17:12:34 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractAll' | Port: '8002'
+2020-04-06 17:12:35 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractAll' | Port: '8002'
+2020-04-06 17:16:22 [restartedMain] INFO  ms.contract.MsContractApplication - No active profile set, falling back to default profiles: default
+2020-04-06 17:16:26 [restartedMain] INFO  ms.contract.MsContractApplication - Started MsContractApplication in 8.015 seconds (JVM running for 413.266)
+2020-04-06 17:16:26 [hystrix-Controller-1] INFO  ms.contract.controller.Controller - Called endpoint: 'contractAll' | Port: '8002'
+2020-04-06 17:34:03 [hystrix-Controller-2] INFO  ms.contract.controller.Controller - Called endpoint: 'contractAll' | Port: '8002'

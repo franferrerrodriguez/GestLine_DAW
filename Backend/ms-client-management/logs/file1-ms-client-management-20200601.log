@@ -1,0 +1,2 @@
+2020-06-01 11:17:24 [restartedMain] INFO  m.c.m.MsClientManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-01 11:17:31 [restartedMain] INFO  m.c.m.MsClientManagementApplication - Started MsClientManagementApplication in 12.721 seconds (JVM running for 13.505)

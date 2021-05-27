@@ -1,0 +1,53 @@
+<app-spinner *ngIf="loading" class="spinner"></app-spinner>
+
+<app-onesection *ngIf="!loading">
+    <div content>
+        <form [formGroup]="form" (ngSubmit)="submit()" *ngIf="contractData">
+            <div  *ngFor="let contract of contractData;let index = index;">
+                <div *ngIf="contract.contractServices && contract.contractServices.length > 0">
+                    <div class="header-component" data-toggle="collapse" [attr.href]="'#collapseLines' + index" aria-expanded="true" aria-controls="collapseExample">
+                        {{ contract.phone }} ({{ contract.contractType | contractType }}) - {{ contract.rate }} ({{ contract.tecnology }})
+                        <i class="fas fa-angle-down rotate-icon"></i>
+                    </div>
+                    <div class="collapse show" id="collapseLines{{ index }}">
+                        <div class="card">
+                            <div class="card-body">
+                                <h3 class="card-title"><img src="assets/img/sim-horizontal.png" width="50"> Tarjeta SIM</h3>
+                                <b>ICCID: </b>{{ contract.iccid }}
+                                <br>
+                                <b>PIN: </b>{{ contract.pin }} | <b>PUK: </b>{{ contract.puk }}
+                                <br>
+                                <b>Puntos de socio: </b>{{ contract.partnerPoints }}
+                            </div>
+                        </div>
+                        <div class="card" style="text-align:center;">
+                            <div class="form-row">
+                                <div class="form-group col-md-6"
+                                *ngFor="let service of contract.contractServices;">
+                                    <label>{{ service.name }}</label>
+                                    <div class="switch">
+                                        <label>
+                                            <input type="checkbox" 
+                                            (change)="onChange(service.id, $event.target.checked)"
+                                            [checked]="service.active">
+                                            <span class="lever"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="alert alert-danger" role="alert" 
+                    *ngIf="!contract.contractServices || contract.contractServices.length == 0">
+                    No existen servicios disponibles para la línea {{ contract.phone }} ({{ contract.contractType | contractType }}).
+                </div>
+                <br>
+            </div>
+            <button type="submit" class="btn btn-outline-secondary waves-effect"
+            [disabled]="!enabledBtnSave">Guardar cambios</button>
+        </form>
+    </div>
+</app-onesection>
+
+<app-notification [notification]="notification"></app-notification>

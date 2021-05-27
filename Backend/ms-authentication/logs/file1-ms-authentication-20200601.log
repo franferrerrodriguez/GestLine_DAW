@@ -1,0 +1,3 @@
+2020-06-01 11:17:09 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default
+2020-06-01 11:17:17 [restartedMain] INFO  m.a.MsAuthenticationApplication - Started MsAuthenticationApplication in 13.024 seconds (JVM running for 13.79)
+2020-06-01 11:20:52 [restartedMain] INFO  m.a.MsAuthenticationApplication - No active profile set, falling back to default profiles: default

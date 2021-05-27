@@ -1,0 +1,9 @@
+<app-spinner *ngIf="loading" class="spinner"></app-spinner>
+
+<app-onesection *ngIf="!loading">
+    <div content>
+        <app-chart-invoices (chartSelectedEmit)="setChartSelected($event)"></app-chart-invoices>
+        <hr>
+        <app-resume-invoice [chartSelected]="chartSelected"></app-resume-invoice>
+    </div>
+</app-onesection>

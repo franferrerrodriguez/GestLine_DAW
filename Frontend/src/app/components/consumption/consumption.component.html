@@ -1,0 +1,181 @@
+<app-spinner *ngIf="loading" class="spinner"></app-spinner>
+
+<app-onesection *ngIf="!loading">
+    <div content>
+        <div *ngIf="contractData">
+            <div *ngFor="let contract of contractData;let index = index;">
+                <div class="header-component" data-toggle="collapse" [attr.href]="'#collapseLines' + index" aria-expanded="true" aria-controls="collapseExample">
+                    {{ contract.phone }} ({{ contract.contractType | contractType }})
+                    <i class="fas fa-angle-down rotate-icon"></i>
+                </div>
+                <div class="collapse show" id="collapseLines{{ index }}">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <!-- LINE CONSUMPTION -->
+
+                                <!-- NATIONAL CALL CONSUMPTION -->
+                                <div class="col-sm-6" *ngIf="contract.lineConsumption">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Llam. Nacionales:</h5>
+                                            <div class="progresscircle" 
+                                                [attr.data-percentage]="utils.getPercentage(contract.lineConsumption.usageMinuts, contract.lineConsumption.totalMinuts, false, true)">
+                                                <span class="progresscircle-left">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <span class="progresscircle-right">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <div class="progresscircle-value">
+                                                    <div *ngIf="contract.lineConsumption.totalMinuts != -1">
+                                                        {{ utils.getPercentage(contract.lineConsumption.usageMinuts, 
+                                                            contract.lineConsumption.totalMinuts) }}%
+                                                        <br>
+                                                        <span>
+                                                            {{ contract.lineConsumption.usageMinuts }} / 
+                                                            {{ contract.lineConsumption.totalMinuts }} min
+                                                        </span>
+                                                    </div>
+                                                    <i class="fas fa-infinity" *ngIf="contract.lineConsumption.totalMinuts == -1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- INTERNATIONAL CALL CONSUMPTION -->
+                                <div class="col-sm-6" *ngIf="contract.lineConsumption">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Llam. Internacionales:</h5>
+                                            <div class="progresscircle"
+                                                [attr.data-percentage]="utils.getPercentage(contract.lineConsumption.usageMinutsInternational, contract.lineConsumption.totalMinutsInternational, false, true)">
+                                                <span class="progresscircle-left">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <span class="progresscircle-right">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <div class="progresscircle-value">
+                                                    <div *ngIf="contract.lineConsumption.totalMinutsInternational != -1">
+                                                        {{ utils.getPercentage(contract.lineConsumption.usageMinutsInternational, 
+                                                            contract.lineConsumption.totalMinutsInternational) }}%
+                                                        <br>
+                                                        <span>
+                                                            {{ contract.lineConsumption.usageMinutsInternational }} / 
+                                                            {{ contract.lineConsumption.totalMinutsInternational }} min
+                                                        </span>
+                                                    </div>
+                                                    <i class="fas fa-infinity" *ngIf="contract.lineConsumption.totalMinutsInternational == -1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- SMS CONSUMPTION -->
+                                <div class="col-sm-12" style="margin-top:10px" *ngIf="contract.lineConsumption">
+                                    <div class="card" *ngIf="contract.lineConsumption.totalSms">
+                                        <div class="card-body">
+                                            <h5 class="card-title">
+                                                SMS<span *ngIf="contract.lineConsumption.totalSms != -1">: ({{ contract.lineConsumption.usageSms }} / {{ contract.lineConsumption.totalSms }})</span>
+                                            </h5>
+                                            <div class="progress md-progress" style="height: 20px">
+                                                <div class="progress-bar" role="progressbar" style="width: {{ utils.getPercentage(contract.lineConsumption.usageSms, contract.lineConsumption.totalSms) }}%; height: 20px" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                                    <span *ngIf="contract.lineConsumption.totalSms != -1">
+                                                        {{ utils.getPercentage(contract.lineConsumption.usageSms, contract.lineConsumption.totalSms) }}%
+                                                    </span>
+                                                    <i class="fas fa-infinity" *ngIf="contract.lineConsumption.totalSms == -1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- DATA CONSUMPTION -->
+
+                                <!-- NATIONAL DATA CONSUMPTION -->
+                                <div class="col-sm-6" *ngIf="contract.dataConsumption" style="margin-top:10px">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Datos Nacional:</h5>
+                                            <div class="progresscircle" 
+                                                [attr.data-percentage]="utils.getPercentage(contract.dataConsumption.usageBytes, contract.dataConsumption.totalBytes, true, true)">
+                                                <span class="progresscircle-left">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <span class="progresscircle-right">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <div class="progresscircle-value">
+                                                    <div *ngIf="contract.dataConsumption.totalBytes != -1">
+                                                        {{ utils.getPercentage(contract.dataConsumption.usageBytes, 
+                                                            contract.dataConsumption.totalBytes) }}%
+                                                        <br>
+                                                        <span>
+                                                            {{ utils.byteToGb(contract.dataConsumption.usageBytes) }} / 
+                                                            {{ utils.byteToGb(contract.dataConsumption.totalBytes) }} GB
+                                                        </span>
+                                                    </div>
+                                                    <i class="fas fa-infinity" *ngIf="contract.dataConsumption.totalBytes == -1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- INTERNATIONAL DATA CONSUMPTION -->
+                                <div class="col-sm-6" *ngIf="contract.dataConsumption" style="margin-top:10px">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Datos Internacional:</h5>
+                                            <div class="progresscircle"
+                                                [attr.data-percentage]="utils.getPercentage(contract.dataConsumption.usageBytesInternational, contract.dataConsumption.totalBytesInternational, true, true)">
+                                                <span class="progresscircle-left">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <span class="progresscircle-right">
+                                                    <span class="progresscircle-bar"></span>
+                                                </span>
+                                                <div class="progresscircle-value">
+                                                    <div *ngIf="contract.dataConsumption.totalBytesInternational != -1">
+                                                        {{ utils.getPercentage(contract.dataConsumption.usageBytesInternational, 
+                                                            contract.dataConsumption.totalBytesInternational) }}%
+                                                        <br>
+                                                        <span>
+                                                            {{ utils.byteToGb(contract.dataConsumption.usageBytesInternational) }} / 
+                                                            {{ utils.byteToGb(contract.dataConsumption.totalBytesInternational) }} GB
+                                                        </span>
+                                                    </div>
+                                                    <i class="fas fa-infinity" *ngIf="contract.dataConsumption.totalBytesInternational == -1"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- BONUS CONSUMPTION -->
+                                <div class="col-sm-12" *ngIf="contract.dataConsumption" style="margin-top:10px">
+                                    <div class="card" *ngIf="contract.dataConsumption.totalBytesBonus">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Bono de datos: ({{ utils.byteToGb(contract.dataConsumption.usageBytesBonus) }} / {{ utils.byteToGb(contract.dataConsumption.totalBytesBonus) }} GB)</h5>
+                                            <div class="progress md-progress" style="height: 20px">
+                                                <div class="progress-bar" role="progressbar" style="width: {{ utils.getPercentage(contract.dataConsumption.usageBytesBonus, contract.dataConsumption.totalBytesBonus) }}%; height: 20px" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                                                    {{ utils.getPercentage(contract.dataConsumption.usageBytesBonus, contract.dataConsumption.totalBytesBonus) }}%
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+            </div>
+        </div>
+    </div>
+</app-onesection>
+
+<app-notification [notification]="notification"></app-notification>

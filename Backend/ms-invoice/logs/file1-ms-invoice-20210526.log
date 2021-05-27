@@ -1,0 +1,4 @@
+2021-05-26 02:39:43 [main] INFO  ms.invoice.MsInvoiceApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-26 02:40:02 [main] INFO  ms.invoice.MsInvoiceApplicationTests - Started MsInvoiceApplicationTests in 29.334 seconds (JVM running for 31.032)
+2021-05-26 11:22:21 [main] INFO  ms.invoice.MsInvoiceApplicationTests - No active profile set, falling back to default profiles: default
+2021-05-26 11:22:33 [main] INFO  ms.invoice.MsInvoiceApplicationTests - Started MsInvoiceApplicationTests in 20.998 seconds (JVM running for 22.483)
