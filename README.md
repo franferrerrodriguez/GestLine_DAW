@@ -50,7 +50,6 @@
 
 - User: 48640904K Password: 1234
 
-- User: 48642036A Password: 1234
 
 ***
 
